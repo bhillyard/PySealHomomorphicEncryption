@@ -31,3 +31,5 @@ python3 setup.py build_ext -i
 cp seal.*.so examples
 cd examples
 python3 4_bgv_basics.py
+
+# When the test successfully runs you should be able to run the creditScoreHE.ipynb file
